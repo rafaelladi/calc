@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="botaozao">Adiçao</string>
+    <string name="sub">Subtraçao</string>
+    <string name="mul">Multiplicaçao</string>
+    <string name="div">Divisao</string>
+</resources>
